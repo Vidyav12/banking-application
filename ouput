@@ -1,0 +1,46 @@
+Login: 
+
+  ->||    Welcome to InBank    ||<- 
+
+    1)Create Account
+    2)Login Account
+
+    Enter Input:2
+Enter  UserName:pritesh
+Enter  Password:123
+View Balance:
+
+Enter  UserName:pritesh
+Enter  Password:123
+Hallo, pritesh
+1)Transfer Money
+2)View Balance
+5)LogOut
+Enter Choice:2
+-----------------------------------------------------------
+  Account No       Name    Balance
+         112    pritesh          0.00
+-----------------------------------------------------------
+Transfer Money:
+
+Hallo, pritesh
+1)Transfer Money
+2)View Balance
+5)LogOut
+Enter Choice:1
+Enter Receiver  A/c No:110
+Enter Amount:5000
+Insufficient Balance!
+ERR :  Failed!
+Logout:
+
+Hallo, pritesh
+1)Transfer Money
+2)View Balance
+5)LogOut
+Enter Choice:5
+MSG : Logout Successfully!
+Cosole
+Console
+
+
